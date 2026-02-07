@@ -7,7 +7,12 @@ Questo progetto implementa un sistema di classificazione e-mail professionale ch
 **Modelli utilizzati:**
 * **SVC (Support Vector Classifier)**: per una classificazione precisa su base statistica.
 * **Random Forest**: per un approccio robusto basato su alberi di decisione.
-* **Ensemble Method**: un sistema che combina i due modelli precedenti per ridurre l'errore e aumentare l'affidabilità.
+* **Naive Bayes**
+* **Logistic Regression**
+**Tecniche di Ensemble utilizzate:**
+Per migliorare le performance e la robustezza della predizione, i modelli sopra citati vengono combinati attraverso:
+1.  **Voting Classifier**: Una strategia che aggrega le previsioni di tutti i modelli per scegliere la classe più votata.
+2.  **Stacking Classifier**: Un approccio meta-modello che impara a combinare in modo ottimale le previsioni dei singoli algoritmi.
 
 L'interfaccia utente è interamente sviluppata in **Streamlit**.
 

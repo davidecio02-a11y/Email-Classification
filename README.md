@@ -2,7 +2,7 @@
 # 📧 Classificatore Email Machine Learning (Ensemble)
 
 ## 📋 Project Overview
-Questo progetto implementa un sistema di classificazione e-mail professionale che utilizza algoritmi di Machine Learning per distinguere tra diverse categorie di messaggi.
+Questo progetto implementa un sistema di classificazione e-mail che utilizza algoritmi di Machine Learning per distinguere automaticamente tra **Spam** (messaggi indesiderati) e **Ham** (messaggi autentici).
 
 **Modelli utilizzati:**
 * **SVC (Support Vector Classifier)**: per una classificazione precisa su base statistica.

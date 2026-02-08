@@ -19,7 +19,7 @@ L'interfaccia utente è interamente sviluppata in **Streamlit**.
 ---
 
 ## ⚙️ Installation Instructions
-Per eseguire questo progetto è necessario avere **Anaconda** installato. 
+Per eseguire questo progetto è necessario avere **Anaconda** installato con il dataset spam sul desktop. 
 Apri il **Prompt di Anaconda** e installa le librerie mancanti con questo comando:
 
 ```bash
